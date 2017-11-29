@@ -38,9 +38,9 @@
 		186384E71FCF029B00CB74FC /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186384E61FCF029B00CB74FC /* 4.jpg */; };
 		186384E91FCF0A2300CB74FC /* DateSortable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186384E81FCF0A2300CB74FC /* DateSortable.swift */; };
 		186384EB1FCF0C1400CB74FC /* JournalEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186384EA1FCF0C1400CB74FC /* JournalEntry.swift */; };
-		186384EF1FCF12B000CB74FC /* 31.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384EC1FCF12B000CB74FC /* 31.png */; };
-		186384F01FCF12B000CB74FC /* 21.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384ED1FCF12B000CB74FC /* 21.png */; };
-		186384F11FCF12B000CB74FC /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384EE1FCF12B000CB74FC /* 11.png */; };
+		186384EF1FCF12B000CB74FC /* 311.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384EC1FCF12B000CB74FC /* 311.png */; };
+		186384F01FCF12B000CB74FC /* 211.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384ED1FCF12B000CB74FC /* 211.png */; };
+		186384F11FCF12B000CB74FC /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = 186384EE1FCF12B000CB74FC /* 111.png */; };
 		B0F569577E39F6004E53750A /* Pods_LGListScene.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25F727C0CC576E35C1F80252 /* Pods_LGListScene.framework */; };
 		E5C8B140341CA46CE2399F47 /* Pods_LGListSceneTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB40DE2975CE239603C721B8 /* Pods_LGListSceneTests.framework */; };
 		F1944EBE779D135AD1F34925 /* Pods_LGListSceneUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1511475335FCD9C314EEF82A /* Pods_LGListSceneUITests.framework */; };
@@ -104,9 +104,9 @@
 		186384E61FCF029B00CB74FC /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
 		186384E81FCF0A2300CB74FC /* DateSortable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateSortable.swift; sourceTree = "<group>"; };
 		186384EA1FCF0C1400CB74FC /* JournalEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JournalEntry.swift; sourceTree = "<group>"; };
-		186384EC1FCF12B000CB74FC /* 31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 31.png; sourceTree = "<group>"; };
-		186384ED1FCF12B000CB74FC /* 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 21.png; sourceTree = "<group>"; };
-		186384EE1FCF12B000CB74FC /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		186384EC1FCF12B000CB74FC /* 311.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 311.png; sourceTree = "<group>"; };
+		186384ED1FCF12B000CB74FC /* 211.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 211.png; sourceTree = "<group>"; };
+		186384EE1FCF12B000CB74FC /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
 		230E5F48D448AB88C9DFF3A7 /* Pods-LGListScene.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGListScene.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LGListScene/Pods-LGListScene.debug.xcconfig"; sourceTree = "<group>"; };
 		25F727C0CC576E35C1F80252 /* Pods_LGListScene.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LGListScene.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EDE4F4576F005F0BE11227C /* Pods-LGListScene.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGListScene.release.xcconfig"; path = "Pods/Target Support Files/Pods-LGListScene/Pods-LGListScene.release.xcconfig"; sourceTree = "<group>"; };
@@ -146,9 +146,9 @@
 		186384791FCE554D00CB74FC = {
 			isa = PBXGroup;
 			children = (
-				186384EE1FCF12B000CB74FC /* 11.png */,
-				186384ED1FCF12B000CB74FC /* 21.png */,
-				186384EC1FCF12B000CB74FC /* 31.png */,
+				186384EE1FCF12B000CB74FC /* 111.png */,
+				186384ED1FCF12B000CB74FC /* 211.png */,
+				186384EC1FCF12B000CB74FC /* 311.png */,
 				186384841FCE554D00CB74FC /* LGListScene */,
 				186384991FCE554D00CB74FC /* LGListSceneTests */,
 				186384A41FCE554D00CB74FC /* LGListSceneUITests */,
@@ -402,12 +402,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				186384F11FCF12B000CB74FC /* 11.png in Resources */,
+				186384F11FCF12B000CB74FC /* 111.png in Resources */,
 				186384E71FCF029B00CB74FC /* 4.jpg in Resources */,
 				186384C41FCE835F00CB74FC /* OCRAStd.otf in Resources */,
-				186384F01FCF12B000CB74FC /* 21.png in Resources */,
+				186384F01FCF12B000CB74FC /* 211.png in Resources */,
 				186384901FCE554D00CB74FC /* LaunchScreen.storyboard in Resources */,
-				186384EF1FCF12B000CB74FC /* 31.png in Resources */,
+				186384EF1FCF12B000CB74FC /* 311.png in Resources */,
 				186384E51FCF029800CB74FC /* 3.jpg in Resources */,
 				1863848D1FCE554D00CB74FC /* Assets.xcassets in Resources */,
 				186384E31FCF029500CB74FC /* 2.jpg in Resources */,
